@@ -1,2 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEHUL MALVIYA'S RESUME </title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td> <img src="C:\ASTHETIC\best of mehul\MEHUL MALVIYA (2).jpg" alt="Description of the image" width="250" height="250"> </td>
+            <td>
+                 <h1>MEHUL MALVIYA</h1>
+                 <h1><strong><i>CODING ENTHUSIAST</i></strong></h1>
+<P>Highly motivated undergraduate computer science student
+    with a focus on data science and machine learning and a
+    passion for coding.</P>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <!--header ends-->
+   
+    <h2>Education </h2>
+    <table border="" >
+        <tr>
+             <th> Course</th>
+             <th>Institute</th>
+             <th >Year</th>
+             <th > Result </th>
+        </tr>
+        <tr>
+            <th> B.Tech</th>
+            <th> SCHOOL OF INFORMATION TECHNOLOGY </th>
+            <th> 2027(currently pursuing)</th>
+            <th> --</th>
+
+            
+        </tr>
+        <tr>
+            <th>12<sups>th</sups> Grade</th>
+            <th>VARSHANA MODEL HIGHER SECONARY SCHOOL</th>
+            <th> 2022</th>
+            <th> 83.4%</th>
+        </tr>
+        <tr>
+            <th>10<sups>th</sups> Grade</th>
+            <th>ROSE MARY HIGHER SECONDARY SCHOOL</th>
+            <th>2020</th>
+            <th>91.6%</th>
+        </tr>
+
+    </table>
+    <h2>Courses Completed</h2>
+    <ul>
+    <li><P><strong> HTML5 </strong> from INFOSYS| SPRINGBOARD</P></li>
+    <li><P><strong> CSS </strong> from INFOSYS| SPRINGBOARD</P></li>
+    </ul>
+    <h2>Hobbies</h2>
+        <ul>
+            <li> Swimming </li>
+            <li> Badminton </li>
+            <li> Cycling</li>
+        </ul>
+    
+<hr>
+<!--main ends -->
+<h2>Connect With Me</h2>
+<ul>
+    <li>LINKDEN :<a href="www.linkedin.com/in/mehul-malviya-342b73292"><i>linkden profile</i></a>
+    </a> </li>
+    <li>GITHUB💻 : <a href=" https://github.com/mehulmm2003"><i>github profile</i></a></li>
+    <li>GMAIL📧: <a>mehulmalviya21@gmail.com</a></li>
+</ul>
+</body>
+</html>
 # Auto detect text files and perform LF normalization
 * text=auto
